@@ -56,6 +56,7 @@ export class Navigation extends Component {
               <li>
                 <a href="#portfolio" className="page-scroll">
                   Reservierung
+                  
                 </a>
               </li>
             </ul>
